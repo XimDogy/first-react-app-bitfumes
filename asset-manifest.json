@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-react-app-bitfumes/static/css/main.ed120cb7.chunk.css",
+    "main.js": "/first-react-app-bitfumes/static/js/main.9ed3ff4f.chunk.js",
+    "main.js.map": "/first-react-app-bitfumes/static/js/main.9ed3ff4f.chunk.js.map",
+    "runtime-main.js": "/first-react-app-bitfumes/static/js/runtime-main.f0be78e4.js",
+    "runtime-main.js.map": "/first-react-app-bitfumes/static/js/runtime-main.f0be78e4.js.map",
+    "static/js/2.b74a5f41.chunk.js": "/first-react-app-bitfumes/static/js/2.b74a5f41.chunk.js",
+    "static/js/2.b74a5f41.chunk.js.map": "/first-react-app-bitfumes/static/js/2.b74a5f41.chunk.js.map",
+    "index.html": "/first-react-app-bitfumes/index.html",
+    "static/css/main.ed120cb7.chunk.css.map": "/first-react-app-bitfumes/static/css/main.ed120cb7.chunk.css.map",
+    "static/js/2.b74a5f41.chunk.js.LICENSE.txt": "/first-react-app-bitfumes/static/js/2.b74a5f41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0be78e4.js",
+    "static/js/2.b74a5f41.chunk.js",
+    "static/css/main.ed120cb7.chunk.css",
+    "static/js/main.9ed3ff4f.chunk.js"
+  ]
+}
